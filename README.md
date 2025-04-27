@@ -175,16 +175,16 @@ This will start the server on `http://localhost:3000`.
 
 This application has been fully deployed:
 
-- **Frontend**: Deployed on [**Vercel**](https://hosi-man.vercel.app/)
-  https://hosi-man.vercel.app/
+- **Frontend**: Deployed on [**Vercel**](https://hospital-management-app-iota.vercel.app/)
+ [hospital-management-app-iota.vercel.app](https://hospital-management-app-iota.vercel.app/)
 
 - **Backend**: Deployed on **Render**  
-  https://hosiman.onrender.com
+  [https://hospital-management-app-cmsd.onrender.com](https://hospital-management-app-cmsd.onrender.com)
 
 - **Database**: Hosted on **MongoDB Atlas**.  
   MongoDB Atlas stores all client and program data securely in the cloud.
 
 ---
 ## To get the John Doe's profile, run this on Postman or Curl
-`GET https://hosiman.onrender.com/clients/680d909831206b73af7457d1`
+`GET https://hospital-management-app-cmsd.onrender.com/clients/680d909831206b73af7457d1`
 
